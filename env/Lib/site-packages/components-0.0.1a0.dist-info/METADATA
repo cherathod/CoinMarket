@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: components
+Version: 0.0.1a0
+Summary: A way to create Vue/React-like reusable UI components in Python.
+Author-email: Juro Oravec <juraj.oravec.josefson@gmail.com>
+License: MIT
+Project-URL: Homepage, https://github.com/EmilStenstrom/django-components/
+Keywords: components,css,js,html
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Requires-Python: <4.0,>=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: Django >=4.2
+
+# <img src="https://raw.githubusercontent.com/EmilStenstrom/django-components/master/logo/logo-black-on-white.svg" alt="django-components" style="max-width: 100%; background: white; color: black;">
+
+Home of the framework-agnostic version of [django_components](https://github.com/EmilStenstrom/django-components/).
+
+`components` package brings the modularity, convenience, and robustness to building web UI as seen in modern frontend frameworks like Vue or React.
+
+🚧 In development... 🚧
