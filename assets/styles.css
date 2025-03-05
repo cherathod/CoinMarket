@@ -1,0 +1,67 @@
+/* Main styles */
+.stApp {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Headers */
+h1,
+h2,
+h3 {
+    color: #FF4B4B !important;
+    font-weight: 600 !important;
+}
+
+/* Metrics */
+.css-1l269bu {
+    background-color: #262730;
+    border-radius: 10px;
+    padding: 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Tables */
+.dataframe {
+    font-size: 0.9rem !important;
+}
+
+/* Charts */
+.js-plotly-plot {
+    border-radius: 10px;
+    background-color: #262730;
+    padding: 1rem;
+}
+
+/* News containers */
+.stContainer {
+    background-color: #262730;
+    border-radius: 10px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+/* Portfolio cards */
+.element-container {
+    background-color: #262730;
+    border-radius: 10px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+/* Buttons */
+.stButton button {
+    background-color: #FF4B4B !important;
+    color: white !important;
+    border: none !important;
+    border-radius: 5px !important;
+    padding: 0.5rem 1rem !important;
+}
+
+/* Sidebar */
+.css-1d391kg {
+    background-color: #262730;
+}
+
+/* Loading spinner */
+.stSpinner>div {
+    border-top-color: #FF4B4B !important;
+}
