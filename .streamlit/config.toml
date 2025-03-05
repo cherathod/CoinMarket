@@ -2,7 +2,7 @@
 headless = true
 enableCORS = false
 enableXsrfProtection = false
-address = "0.0.0.0"
+address = "localhost"
 port = 5000
 
 [theme]
@@ -13,6 +13,6 @@ textColor = "#FFFFFF"
 font = "sans serif"
 
 [browser]
-serverAddress = "0.0.0.0"
+serverAddress = "localhost"
 serverPort = 5000
 gatherUsageStats = false
