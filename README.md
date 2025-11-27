@@ -1,5 +1,5 @@
 
-# Cryptocurrency Market Analysis Dashboard
+# Cryptocurrency Market Analysis
 
 A comprehensive Streamlit application for cryptocurrency market analysis, portfolio tracking, and news aggregation.
 
